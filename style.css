@@ -386,5 +386,5 @@ tr:nth-child(even) {
 .to-top {
   cursor: pointer !important;
   opacity: 1 !important;
-  bottom: 35px;
+  bottom: 35px !important;
 }
